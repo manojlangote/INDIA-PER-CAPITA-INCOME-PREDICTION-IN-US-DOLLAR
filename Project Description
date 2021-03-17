@@ -1,0 +1,18 @@
+Aim :- To calculate the India per capita income.
+Per capita Income : Country income for each person living in the country.
+Per capita income analysis will help the government to plan there future projects.
+
+ DATA CONTRIBUTION -> https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IN
+ CONVERT EXCEL FILE INTO THE CSV FILE 
+ Eye balling help us to indentify weather data has any outlier to be treat or not 
+ If any outlier present in the data treate them with imputer method to median .
+ 
+ import required libraries such as pandas ,numpy ,sklearn,matplotlib.
+ 
+ INCOME = Dependant Variable or feature .
+ YEAR = Independant Variable or Feature.
+ 
+ plot simple hisogram for data visualization .
+ 
+ now apply linear regression algorith on independant and dependant variable 
+ and predict required output .
