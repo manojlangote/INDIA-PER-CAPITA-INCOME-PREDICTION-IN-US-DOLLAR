@@ -1,1 +1,19 @@
-f
+In Machine Learning or in Data Science regression is known to be one of the most 
+crucial fields and there’re many regression methods available today. 
+
+Linear Regression is one of them. whereas, regression is used to find the relationship among the variables.
+Using the current data along with the income and year, we can predict the future income of any year using linear regression.
+
+I am using the scikit-learn library to implement linear regression.
+
+Linear Regression is a machine learning algorith comes from mathematical relationship 
+Y=mX+c
+where, 
+Y=PREDICTIVE VALUE
+m=iNTERCEPT (Which cuts a axis y)
+X=Year of the prective value
+c=slope of linear regression line .
+
+
+
+
